@@ -1,0 +1,1 @@
+puts "Gita Amara Aulia"

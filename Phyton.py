@@ -1,0 +1,1 @@
+print("Gita , Amara, Aulia")
